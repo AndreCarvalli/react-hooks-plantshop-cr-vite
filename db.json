@@ -1,46 +1,58 @@
 {
   "plants": [
     {
-      "id": 1,
+      "id": "1",
       "name": "Aloe",
       "image": "./images/aloe.jpg",
       "price": 15.99
     },
     {
-      "id": 2,
+      "id": "2",
       "name": "ZZ Plant",
       "image": "./images/zz-plant.jpg",
       "price": 25.98
     },
     {
-      "id": 3,
+      "id": "3",
       "name": "Pilea peperomioides",
       "image": "./images/pilea.jpg",
       "price": 5.99
     },
     {
-      "id": 4,
+      "id": "4",
       "name": "Pothos",
       "image": "./images/pothos.jpg",
       "price": 12.11
     },
     {
-      "id": 5,
+      "id": "5",
       "name": "Jade",
       "image": "./images/jade.jpg",
       "price": 10.37
     },
     {
-      "id": 6,
+      "id": "6",
       "name": "Monstera Deliciosa",
       "image": "./images/monstera.jpg",
       "price": 25.99
     },
     {
-      "id": 7,
+      "id": "7",
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "id": "eb5c",
+      "name": "Fluer",
+      "image": "data:image/jpeg;base64,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",
+      "price": "24.00"
+    },
+    {
+      "id": "3bff",
+      "name": "Another",
+      "image": "https://images.ctfassets.net/tgv5pu8pgmos/6BRfHHSLLN1ooz9y5fTPk2/f3ef3185fd8d929d12bb2562480529d0/payroll.png?fm=avif&w=1104&fit=scale",
+      "price": "12"
     }
   ]
 }
